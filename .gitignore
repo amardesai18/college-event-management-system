@@ -1,0 +1,4 @@
+# Ignore personal / unrelated files
+*.mhtml
+.DS_Store
+Thumbs.db
